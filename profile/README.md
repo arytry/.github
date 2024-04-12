@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-it's Arytry.
+It's Arytry.
